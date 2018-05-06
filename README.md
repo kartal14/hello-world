@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+Kartal here,a football lover~
